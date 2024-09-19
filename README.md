@@ -6,5 +6,9 @@
 # Home:
 channel: https://www.youtube.com/@RenaissancePeriodization
 
+site: https://rpstrength.com/
+
+app: https://rpstrength.com/pages/hypertrophy-app
+
 # video:
 - [Exercise Scientist Exposes Liver King's Diet and Training Claims!](https://youtu.be/78rW1OlrKJg)
